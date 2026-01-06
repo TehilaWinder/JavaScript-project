@@ -29,7 +29,7 @@ Anyone who wants to have fun and enjoy a casual game.
 ## 🚀 Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/catch-or-bomb.git
+   git clone https://github.com/TehilaWinder/JavaScript-project.git
    ```
 2. Open `index.html` in your browser.
 3. Play and enjoy!
